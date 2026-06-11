@@ -1,2 +1,3 @@
 duck
 dog
+new line of text
